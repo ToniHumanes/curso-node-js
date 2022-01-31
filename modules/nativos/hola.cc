@@ -1,4 +1,5 @@
 // hello.cc
+// Podemos ejecutar modulos de c++ dentro de nodejs y por lo tanto js
 #include <node.h>
 
 namespace demo {
