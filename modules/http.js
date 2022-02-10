@@ -24,3 +24,6 @@ function router(request, response) {
 }
 
 console.log('Escuchando http en el puerto 300')
+
+// Para debugear: node --inspect http.js
+// y en el navegador: chrome://inspect
